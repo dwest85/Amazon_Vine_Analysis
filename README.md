@@ -7,19 +7,19 @@
 * These are the results based on the large Musicial Equipment dataset pulled from the AWS server:
 * Out of the helpful reviews, there were a total of 963 paid vine reviews and 330093 unpaid reviews, which shows that all paid reviews only account for around 2.9% of the total helpful votes.
 
-![paidvsunpaid]()
+![paidvsunpaid](https://github.com/dwest85/Amazon_Vine_Analysis/blob/main/markdownpics/paidvsunpaid.PNG)
 
 * Out of those reviews, 520 paid vine reviews had a five-star rating and 200616 unpaid reviews also had a five-star rating. This concludes that 54% of all paid reviews were five-star, and 61% of all unpaid reviews were five-star.
 
-![fivestarcompared]()
+![fivestarcompared](https://github.com/dwest85/Amazon_Vine_Analysis/blob/main/markdownpics/fivestarcompared.PNG)
 
 * As stated above, 54% of all paid reviews were five-star and 61% of all unpaid reviews were five-star, which is a very similar breakdown of great reviews. 
 
 # Summary
 * As a result of the analysis, I have not found any positivity bias towards the reviews in the vine program, versus the unpaid reviews. Both groupings of great reviews only differed by 7%, with the unpaid reviews having more great reviews (61% versus 54%). 
 
-![percentagebreakdown]()
+![percentagebreakdown](https://github.com/dwest85/Amazon_Vine_Analysis/blob/main/markdownpics/percentagebreakdown.PNG)
 
 * As an additional analysis used to strengthen the honesty of the ratings, I would have filtered out all non verified purchases. The verified purchases have weight behind their review because we know that the product was in the reviewer's possesion. 
 
-![verified]()
+![verified](https://github.com/dwest85/Amazon_Vine_Analysis/blob/main/markdownpics/verified.PNG)
